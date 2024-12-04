@@ -1,35 +1,169 @@
-# Welcome to GitHub
+# 13조 "C++ 보단 A+이 쉽다"
 
-유레카 프로젝트 팀 생성을 축하합니다.
+## 24-2 유레카 프로젝트 최종 보고서
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+## **서론**
+본 보고서는 팀 활동의 진행 과정을 정리하고, 각 주차별 주요 활동 및 결과를 기록하여 향후 참고자료로 활용하기 위한 목적을 가지고 작성되었습니다. 본 팀은 다양한 활동을 통해 학습하고 성장하며, 각 팀원 간의 협력과 소통을 강화하는 데 중점을 두었습니다. 
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
+## **활동 내용**
 
-## Markdown을 사용하여 내용꾸미기
+### 1주차
+● **팀구성 완료**: 팀원들이 모여 역할을 분담하고 팀의 목표를 설정했습니다. (티켓 1)
+- **팀구성 완료**: 팀원들이 모여 역할을 분담하고 팀의 목표를 설정했습니다. (티켓 1)
+<br><br>
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
 
-```markdown
-Syntax highlighted code block
+### 2주차
 
-# Header 1
-## Header 2
-### Header 3
+  
+  <details>
+  <summary><b>팀 소개 발표 개요 제출</b>: 팀의 비전과 목표를 설명하는 발표 개요를 제출했습니다. (티켓 1)</summary>
+  This is the content that gets toggled. You can include **Markdown** within these details.
+  </details>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 3주차
 
-**Bold** and _Italic_ and `Code` text
+<details>
+  <summary>다른 팀 소개 발표 질문1: 다른 팀의 발표를 듣고, 이해를 돕기 위해 질문을 작성했습니다. (티켓 2)</summary>
+  T
+</details>
 
-[Link](url) and ![Image](src)
-```
+  
+  
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 4주차
 
-### Support or Contact
+  - 대학원 설명회 참석: 대학원에 대한 전반적인 설명을 듣고, 향후 진로에 대한 방향성을 모색했습니다.
+  
 
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+### 5주차
+
+
+<details>
+  <summary>학과 서비스 및 서버실 탐방: 학과의 다양한 서비스와 서버실을 탐방하여 실무 환경을 이해했습니다. (티켓 1)</summary>
+  T
+</details>
+
+   
+  
+
+### 6주차
+
+  - 교과과정 이수계획과 비교과 활동계획: 개인의 교과과정 이수계획과 비교과 활동계획을 수립했습니다. (티켓 1)
+  
+<details>
+  <summary>보직 교수님과의 합동 인터뷰: 교수님과의 인터뷰를 통해 학과의 비전과 방향성을 들었습니다. (티켓 3)</summary>
+  T
+</details>
+
+  
+### 7주차
+
+  - 멘토링 시스템 참가 신청: 멘토링 프로그램에 참여하기 위해 신청했습니다. (티켓 1)
+  
+<details>
+  <summary>다른 팀 소개 발표 질문3: 다른 팀 발표에 대해 추가 질문을 작성했습니다. (티켓 3)</summary>
+  T
+</details>
+
+
+<details>
+  <summary>팀 소개 발표 완료: 팀 소개 발표를 성공적으로 마쳤습니다.팀 소개 발표 완료: 팀 소개 발표를 성공적으로 마쳤습니다.</summary>
+  T
+</details>
+    
+  
+### 8주차
+
+
+<details>
+  <summary>행정실 방문: 행정실을 방문하여 학사 관련 정보를 수집했습니다. (티켓 1)</summary>
+  T
+</details>
+
+
+<details>
+  <summary>3, 4학년 과목 담당 교수님 방문: 교수님을 직접 만나 학습 방향에 대한 조언을 받았습니다. (티켓 1)</summary>
+  T
+</details>
+    
+### 9주차
+  
+<details>
+  <summary>정통처 탐방: 정통처를 탐방하여 IT 인프라에 대한 이해를 높였습니다.</summary>
+  T
+</details>
+
+
+<details>
+  <summary>대학원생 인터뷰1: 대학원생과의 인터뷰를 통해 실제 경험담을 들었습니다. (티켓 1)</summary>
+  T
+</details>
+
+
+<details>
+  <summary>대학원생 인터뷰2: 또 다른 대학원생과 인터뷰를 진행했습니다. (티켓 1)</summary>
+  T
+</details>
+
+
+<details>
+  <summary>교수님 인터뷰: 교수님과의 인터뷰를 통해 학문적 조언을 받았습니다. (티켓 1)</summary>
+  T
+</details>
+    
+  
+### 10주차
+  
+  - 새로운 상상 설문: 설문 조사에 참여하여 의견을 제출했습니다. (티켓 1)
+
+  
+<details>
+  <summary>팀 활동 발표: 팀의 활동을 정리하여 발표했습니다. (티켓 8)</summary>
+  T
+</details>
+
+<details>
+  <summary>질문 3개 이상 받음: 발표 후 청중으로부터 질문을 받았습니다. (티켓 1)</summary>
+  T
+</details>
+
+### 11주차
+<details>
+  <summary></summary>
+  T
+</details>
+  다른 팀 활동 발표 질문1: 다른 팀의 발표에 대해 질문을 작성했습니다. (티켓 1)
+
+
+### 12주차
+<details>
+  <summary>다른 팀 활동 발표 질문2: 추가 질문을 작성하여 발표에 참여했습니다. (티켓 2)</summary>
+  T
+</details>
+   
+   - 팀활동 보고 평가 2개: 팀 활동에 대한 평가를 진행했습니다. (티켓 1)
+   
+<details>
+  <summary>멘토링 시스템 참여: 멘토링 시스템에 참여하여 멘토와의 소통을 강화했습니다.</summary>
+  T
+</details>
+   
+### 13주차
+  <details>
+  <summary>다른 팀 활동 발표 질문3: 다른 팀 발표에 대해 추가 질문을 작성했습니다. (티켓 2)</summary>
+  T
+</details>
+
+  - 팀활동 보고 평가: 팀 활동을 평가하여 향후 개선점을 도출했습니다. (티켓 1)
+    
+
+### 14주차
+  
+  - 최종 보고서 평가: 최종 보고서를 작성하고 평가를 진행했습니다. (티켓 1)
+  
+
+## **결론**
+
+이번 팀 활동을 통해 팀원 간의 협력과 소통을 강화하고, 다양한 경험을 통해 학습할 수 있었습니다. 각 주차별 활동을 통해 얻은 지식과 경험은 향후 진로.
