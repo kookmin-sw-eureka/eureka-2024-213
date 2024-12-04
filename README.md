@@ -1,13 +1,10 @@
-# Welcome to GitHub
+# 13조 "C++ 보단 A+이 쉽다"
 
-유레카 프로젝트 팀 생성을 축하합니다.  
-
-가나다라마바사
+## 최종 보고서
 
 **팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
-
+**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
 
 ## Markdown을 사용하여 내용꾸미기
 
